@@ -1,0 +1,28 @@
+{
+  "actions": [
+    {
+      "id": 2,
+      "maxActions": 5,
+      "date": "22.10.2023, 16:02:47",
+      "actionAllowed": 2
+    },
+    {
+      "id": 2,
+      "maxActions": 5,
+      "date": "22.10.2023, 16:02:55",
+      "actionAllowed": 1
+    },
+    {
+      "id": 2,
+      "maxActions": 5,
+      "date": "22.10.2023, 16:02:57",
+      "actionAllowed": 0
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "22.10.2023, 16:05:27",
+      "actionAllowed": 4
+    }
+  ]
+}
